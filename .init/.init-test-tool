@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/excel-sheet-discrepancy-finder-1381-1390/excel_discrepancy_backend"
+}
